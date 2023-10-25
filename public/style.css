@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blueviolet
+}
+
+h1
+{
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color:brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sketch-container {
+    display: inline-block;
+}
